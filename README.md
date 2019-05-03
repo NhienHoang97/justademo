@@ -1,2 +1,2 @@
 
-this is project just demo.
+this is project just a demo.
