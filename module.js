@@ -3,4 +3,3 @@ function Mouse (name){
 
 }
 
-module.exports = mcikey;
